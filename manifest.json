@@ -1,6 +1,6 @@
 {
   "short_name": "Calculator",
-  "name": "React Calculator",
+  "name": "React-Basic-Calculator",
   "icons": [
     {
       "src": "favicon.ico",
