@@ -1,6 +1,6 @@
 {
-  "name": "react-calculator",
-  "homepage": "http://AshrayG.github.io/basic-Calculator",
+  "name": "React-Basic-Calculator",
+  "homepage": "http://AshrayG.github.io/React-Basic-Calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
