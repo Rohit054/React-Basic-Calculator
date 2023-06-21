@@ -1,6 +1,6 @@
 {
   "short_name": "Calculator",
-  "name": "React-Basic-Calculator",
+  "name": "react-basic-calculator",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://mitanshu21.github.io/react-calculator/",
+  "start_url": "https://rohit054.github.io/React-Basic-Calculator",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#dfe9f5",
