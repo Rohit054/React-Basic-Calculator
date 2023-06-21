@@ -1,6 +1,6 @@
 {
-  "name": "React-Basic-Calculator",
-  "homepage": "http://rohit054.github.io/React-Basic-Calculator",
+  "name": "react-basic-calculator",
+  "homepage": "https://rohit054.github.io/React-Basic-Calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
